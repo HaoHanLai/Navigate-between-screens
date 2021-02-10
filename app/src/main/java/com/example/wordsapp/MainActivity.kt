@@ -101,6 +101,7 @@ class MainActivity : AppCompatActivity() {
 
                 return true
             }
+
             //  Otherwise, do nothing and use the core event handling
 
             // when clauses require that all possible paths be accounted for explicitly,
